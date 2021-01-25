@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agrobot1", "Agrobot1\Agrobot1.csproj", "{BFDB8D88-D8F4-4C6F-BAF4-A9F3041B5DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDB8D88-D8F4-4C6F-BAF4-A9F3041B5DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDB8D88-D8F4-4C6F-BAF4-A9F3041B5DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDB8D88-D8F4-4C6F-BAF4-A9F3041B5DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDB8D88-D8F4-4C6F-BAF4-A9F3041B5DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D2DCC20-99AD-4C9C-A712-6F38FF496E00}
+	EndGlobalSection
+EndGlobal
