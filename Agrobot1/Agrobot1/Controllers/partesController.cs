@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Agrobot1.Data;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using Agrobot1.Data;
 
 namespace Agrobot1.Models
 {

@@ -1,5 +1,3 @@
-using System;
-
 namespace Agrobot1.Models
 {
     public class ErrorViewModel
